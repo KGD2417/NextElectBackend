@@ -39,7 +39,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/NextElect-Backend.git
+git clone https://github.com/KGD2417/NextElect-Backend.git
 cd NextElect-Backend
 ```
 
